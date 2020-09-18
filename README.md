@@ -1,5 +1,5 @@
 # C++
-Programs in the language C++.
+Programs in the language C++. 
 This repository consists of solutions to problems from the Courses on Coursera:
 https://www.coursera.org/learn/c-plus-plus-white; 
 https://www.coursera.org/learn/c-plus-plus-yellow; 
